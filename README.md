@@ -1,3 +1,4 @@
 # GMDJPP
 
-blah blah blaaaah
+__Author__ = Gavriel Dorfman
+__Author__ = Jean Pierre Paterson
